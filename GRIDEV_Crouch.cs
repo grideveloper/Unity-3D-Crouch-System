@@ -31,4 +31,4 @@ else if (Input.GetKeyDown(KeyCode.LeftControl) && _isCrouching)
     StartCoroutine(StopCrouchingSystem());
 }
 
-//---THEN CONNECT WITH YOUR MOVEMENT SYSTEM---\\
+//---THEN CONNECT WITH YOUR SYSTEM---\\
